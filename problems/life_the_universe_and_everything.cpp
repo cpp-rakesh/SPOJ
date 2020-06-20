@@ -15,6 +15,6 @@ int main() {
         else
             printf("%d\n", n);
     }
-    
+
     return 0;
 }
